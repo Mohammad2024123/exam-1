@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    background-color: aqua;
+    margin-top: 10px;
+    padding-left: 100px;
+    padding-top: 20px;
+
+    border: 1px solid blue;
+    box-sizing: border-box;
+    height: 500px;
+    width: 400px;
+    margin: auto;
+}
